@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/BarjanaNasar481/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BarjanaNasar481/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/BarjanaNasar481/leetcode/tree/master/0066-plus-one) |
+| [0682-baseball-game](https://github.com/BarjanaNasar481/leetcode/tree/master/0682-baseball-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/BarjanaNasar481/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -49,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BarjanaNasar481/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/BarjanaNasar481/leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BarjanaNasar481/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/BarjanaNasar481/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
